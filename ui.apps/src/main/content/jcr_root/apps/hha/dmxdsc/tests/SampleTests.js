@@ -13,16 +13,16 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-new hobs.TestSuite("DiscoverHighmark Project Tests", {path:"/apps/hha/dmxdsc/tests/SampleTests.js", register: true})
+new hobs.TestSuite("Fittanylions Project Tests", {path:"/apps/hha/fittanylion/tests/SampleTests.js", register: true})
 
     .addTestCase(new hobs.TestCase("Hello World component on english page")
-        .navigateTo("/content/discovergighmark/en.html")
-        .asserts.location("/content/discovergighmark/en.html", true)
+        .navigateTo("/content/fittanylion/en.html")
+        .asserts.location("/content/fittanylion/en.html", true)
         .asserts.visible(".helloworld", true)
     )
 
     .addTestCase(new hobs.TestCase("Hello World component on french page")
-        .navigateTo("/content/discovergighmark/fr.html")
-        .asserts.location("/content/discovergighmark/fr.html", true)
+        .navigateTo("/content/fittanylion/fr.html")
+        .asserts.location("/content/fittanylion/fr.html", true)
         .asserts.visible(".helloworld", true)
     );

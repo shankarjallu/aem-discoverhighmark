@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
    
-    <filter root="/content/digital-marketing/en/highmark/discovergighmark" mode="merge"/>
-    <filter root="/content/dam/digital-marketing/en/highmark/discovergighmark" mode="merge"/>
+    <filter root="/content/digital-marketing/en/highmark/DiscoverHighmark" mode="merge"/>
+    <filter root="/content/dam/digital-marketing/en/highmark/DiscoverHighmark" mode="merge"/>
 </workspaceFilter>

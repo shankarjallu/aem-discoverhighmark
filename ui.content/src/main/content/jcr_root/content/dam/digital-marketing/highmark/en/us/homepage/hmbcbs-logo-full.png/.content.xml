@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="5578f61f-97da-4878-a344-c2708528d78c">
+    <jcr:content
+        cq:name="hmbcbs-logo-full.png"
+        cq:parentPath="/content/dam/digital-marketing/highmark/en/us/homepage"
+        dam:assetState="processed"
+        dam:copiedAt="{Date}2018-02-09T01:39:11.898-08:00"
+        dam:parentAssetID="6e54e0ae-cb1a-4d1e-8233-a55e43983a7d"
+        dam:relativePath="digital-marketing/highmark/en/us/homepage/hmbcbs-logo-full.png"
+        jcr:lastModified="{Date}2018-03-12T10:12:04.246-04:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}32"
+            dam:Comments="Software: Adobe ImageReady "
+            dam:extracted="{Date}2018-02-09T01:39:12.030-08:00"
+            dam:Fileformat="PNG"
+            dam:MIMEtype="image/png"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}1"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}0.9026649594306946"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}3.069060802459717"
+            dam:Progressive="no"
+            dam:sha1="22adaf9a9123af09c774b3b39553ac715d165ccf"
+            dam:size="{Long}4760"
+            dc:format="image/png"
+            dc:modified="{Date}2018-02-09T01:39:09.118-08:00"
+            jcr:lastModified="{Date}2018-03-12T10:12:01.820-04:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}65"
+            tiff:ImageWidth="{Long}221"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

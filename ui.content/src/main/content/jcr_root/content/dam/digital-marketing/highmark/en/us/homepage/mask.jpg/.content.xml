@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="1782c37b-ebfa-4764-91eb-4ef53fc4776f">
+    <jcr:content
+        cq:name="mask.jpg"
+        cq:parentPath="/content/dam/digital-marketing/highmark/en/us/homepage"
+        dam:assetState="processed"
+        dam:copiedAt="{Date}2018-02-09T01:39:09.116-08:00"
+        dam:parentAssetID="2e7bd93f-019b-4787-93eb-8eb6eb4defe2"
+        dam:relativePath="digital-marketing/highmark/en/us/homepage/mask.jpg"
+        jcr:lastModified="{Date}2018-03-12T10:12:01.510-04:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2018-02-08T18:24:08.349-08:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}96"
+            dam:Physicalheightininches="{Decimal}8.333333015441895"
+            dam:Physicalwidthindpi="{Long}96"
+            dam:Physicalwidthininches="{Decimal}20.0"
+            dam:Progressive="no"
+            dam:sha1="695a7c5d1b7994d3d13d9e6072fdb4e111f2f35e"
+            dam:size="{Long}97525"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2017-12-07T14:55:57.631-05:00"
+            jcr:lastModified="{Date}2018-03-12T10:12:01.379-04:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}800"
+            tiff:ImageWidth="{Long}1920"/>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2017-12-07T12:59:42.003-05:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

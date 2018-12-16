@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="52b0cc31-f13c-4289-b5ad-ecc34c85c6e1">
+    <jcr:content
+        cq:name="diabetes.jpg"
+        cq:parentPath="/content/dam/digital-marketing/highmark/en/us/homepage"
+        dam:assetState="processed"
+        dam:copiedAt="{Date}2018-02-09T01:39:10.523-08:00"
+        dam:parentAssetID="c6770f1e-b054-4bc7-9763-e477f36e2813"
+        dam:relativePath="digital-marketing/highmark/en/us/homepage/diabetes.jpg"
+        jcr:lastModified="{Date}2018-03-12T10:12:02.533-04:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2018-02-09T01:39:10.657-08:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="yes"
+            dam:sha1="a834f9a70038614b9c543d4c2a000616b634bef1"
+            dam:size="{Long}64003"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2017-12-07T14:55:56.622-05:00"
+            jcr:lastModified="{Date}2018-03-12T10:12:00.683-04:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}331"
+            tiff:ImageWidth="{Long}391"
+            xmp:CreatorTool="Adobe Photoshop CS6 (Windows)"
+            xmpMM:DocumentID="xmp.did:DAB6FBE8BD9E11E7BD59B8903172418F"
+            xmpMM:InstanceID="xmp.iid:DAB6FBE7BD9E11E7BD59B8903172418F">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="xmp.did:DAB6FBE6BD9E11E7BD59B8903172418F"
+                stRef:instanceID="xmp.iid:DAB6FBE5BD9E11E7BD59B8903172418F"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2017-12-07T10:24:58.592-05:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>
